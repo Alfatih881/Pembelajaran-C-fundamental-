@@ -11,16 +11,44 @@ Dasar-dasar C++ yang mencakup struktur program, operator, loop, fungsi, dan kons
 
 <br/>
 
-<!-- https://github.com/bradvin/social-share-urls -->
-[![Facebook](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&label=Share+on+Facebook&logo=facebook)](https://www.facebook.com/sharer/sharer.php?t=ModernCpp%20Snippets%20and%20Examples&u=https://github.com/alandefreitas/moderncpp/)
-[![QZone](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&label=Share+on+QZone&logo=qzone)](http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=https://github.com/alandefreitas/moderncpp/&title=ModernCpp%20Snippets%20and%20Examples&summary=ModernCpp%20Snippets%20and%20Examples)
-[![Weibo](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&label=Share+on+Weibo&logo=sina-weibo)](http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=https://github.com/alandefreitas/moderncpp/&title=ModernCpp%20Snippets%20and%20Examples&summary=ModernCpp%20Snippets%20and%20Examples)
-[![Reddit](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&label=Share+on+Reddit&logo=reddit)](http://www.reddit.com/submit?url=https://github.com/alandefreitas/moderncpp/&title=ModernCpp%20Snippets%20and%20Examples)
-[![Twitter](https://img.shields.io/twitter/url/http/shields.io.svg?label=Share+on+Twitter&style=social)](https://twitter.com/intent/tweet?text=ModernCpp%20Snippets%20and%20Examples&url=https://github.com/alandefreitas/moderncpp/&hashtags=Cpp,Snippets,ModernCpp,ScientificComputing,Examples,Developers)
-[![LinkedIn](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&label=Share+on+LinkedIn&logo=linkedin)](https://www.linkedin.com/shareArticle?mini=false&url=https://github.com/alandefreitas/moderncpp/&title=ModernCpp%20Snippets%20and%20Examples)
-[![WhatsApp](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&label=Share+on+WhatsApp&logo=whatsapp)](https://api.whatsapp.com/send?text=ModernCpp%20Snippets%20and%20Examples:+https://github.com/alandefreitas/moderncpp/)
-[![Line.me](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&label=Share+on+Line.me&logo=line)](https://lineit.line.me/share/ui?url=https://github.com/alandefreitas/moderncpp/&text=ModernCpp%20Snippets%20and%20Examples)
-[![Telegram.me](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&label=Share+on+Telegram.me&logo=telegram)](https://telegram.me/share/url?url=https://github.com/alandefreitas/moderncpp/&text=ModernCpp%20Snippets%20and%20Examples)
-[![HackerNews](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&label=Share+on+HackerNews&logo=y-combinator)](https://news.ycombinator.com/submitlink?u=https://github.com/alandefreitas/moderncpp/&t=ModernCpp%20Snippets%20and%20Examples)
 
 <br/>
+# NamaProyekCpp  
+> Singkat satu-baris — apa yang dilakukan proyek Anda
+
+## 📖 Deskripsi  
+Deskripsi singkat tentang proyek ini:  
+- Tujuan: mengapa Anda membuat proyek ini  
+- Masalah yang diselesaikan / kebutuhan yang dipenuhi  
+- Ringkas fitur utama atau keunggulan  
+
+## 🎯 Fitur Utama  
+- Fitur 1 — deskripsi singkat  
+- Fitur 2 — deskripsi singkat  
+- Fitur 3 — deskripsi singkat  
+- …  
+
+## 🛠️ Teknologi & Dependensi  
+Proyek ini dibangun menggunakan:  
+- Bahasa: **C++ (versi C++17 atau lebih baru)**  
+- Build system: e.g., CMake, Makefile, atau lainnya  
+- Dependensi tambahan:  
+  - Library A (versi X.Y)  
+  - Library B (versi Z.W)  
+- Sistem Operasi yang didukung: Windows / Linux / macOS (sesuaikan)  
+
+## 🚀 Instalasi & Build  
+Ikuti langkah-langkah berikut untuk menjalankan secara lokal:  
+
+```bash
+# Clone repository
+git clone https://github.com/username/NamaProyekCpp.git
+cd NamaProyekCpp
+
+# Buat direktori build (jika menggunakan CMake)
+mkdir build && cd build
+cmake ..
+make
+
+# (Jika ada) jalankan executable
+./NamaProyekCpp
